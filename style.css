@@ -1,0 +1,34 @@
+h1{
+    background-color: bisque;
+}
+html{
+    text-align: center;
+}
+
+#para{
+    background-color: lightskyblue;
+    font-size: large;
+}
+
+ol{
+    text-align: left;
+}
+#os{
+    text-align: left;
+    background-color: aquamarine;
+}
+#yv{
+    text-align: left;
+    background-color: aquamarine;
+}
+#link{
+    background-color: aqua;
+}
+
+#lyrics{
+    background-color: coral;
+}
+
+#aa{
+    background-color: rgb(245, 149, 194);
+}
